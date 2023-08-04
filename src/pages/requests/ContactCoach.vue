@@ -1,6 +1,4 @@
-<template>
-    test
-</template>
+<template>contact coach child router</template>
 
 <script>
 export default {
